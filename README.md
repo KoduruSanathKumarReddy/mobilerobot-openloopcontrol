@@ -10,22 +10,26 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
+Start
 
 <br/>
 
 Step2:
+From robomaster import robot
 
 <br/>
 
 Step3:
-
+Intialize the type
 <br/>
 
 Step4:
+Run the program to move the robo master through our condition
 
 <br/>
 
 Step5:
+Close
 
 <br/>
 
