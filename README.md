@@ -79,7 +79,6 @@ if __name__ == '__main__':
 
 ![robo](robo1.png)
 ![](robo2.png)
-Insert image here
 
 
 <br/>
@@ -88,7 +87,7 @@ Insert image here
 <br/>
 
 ## MobileRobot Movement Video:
-https://youtu.be/TLKPUdjDF1o
+https://www.youtube.com/watch?v=TLKPUdjDF1o
 
 <br/>
 <br/>
